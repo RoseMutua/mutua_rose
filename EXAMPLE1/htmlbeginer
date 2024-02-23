@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<HTML>
+    <Head> 
+        <title>css style </title>
+        <link rel="stylesheet"href="example 1/style.css">
+        <style>
+            body{
+                background-color: #ff6743;color:white;
+            }
+        </style>
+    </Head>
+    <body>
+        <p>
+            <h1 style="background-color: cyan;">hello world</h1>
+            <h2 style="border-color: blue;">am rose</h2>
+            <h3 style="color:white">my first page</h3>
+        </p>
+        <p>
+            <h3> i am new here</h3>
+        </p>
+            <table boader ="1"style="boader_collapse:collapse:"id="table1 1"class ="tables">
+        <tr>
+            <th>Adm No</th>
+            <th>Name</th>
+            <th>course</th>
+        </tr>
+        <tr>
+            <td>9311</td>
+            <td>justus ochieng</td>
+            <td>dict 3</td>
+        </tr>
+        <tr>
+        <td>6655</td>
+        <td>lydia kundu</td>
+        <td>dict 3</td>
+        </tr>
+        <tr>
+            <td>3540</td>
+            <td>yvone kigutu</td>
+            <td>dict 3</td>
+        </tr>
+        </table>
+        <p><img src="podo.JPG" height="500px"><img>
+</body>
+</HTML>

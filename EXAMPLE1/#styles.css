@@ -1,0 +1,12 @@
+body{
+    background-color: palevioletred;
+
+}
+h1{
+    color: blue;
+    background-color: #ff3232;
+}
+p{color: rgba(red, green, blue, alpha);}
+img{
+    width: 500px;
+}
